@@ -1,8 +1,9 @@
-#phpserialize in Go
+phpserialize in Go
+===================
 
 
 
-##Introduce
+Introduce
 ------------
 phpseriallize is a package for serialize and unserialize an object like php
 rules like:
@@ -12,7 +13,7 @@ rules like:
 	float  	d:2.3;
 	...
 	
-##Installation
+Installation
 ------------
 
 Install:
@@ -21,7 +22,7 @@ Install:
 
     go get "github.com/sangasong/serialize
     
-##Example
+Example
 ------------
 ```Go
 package main
