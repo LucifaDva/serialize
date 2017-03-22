@@ -1,5 +1,5 @@
 phpserialize in Go
-===================
+
 
 
 Introduce
@@ -11,6 +11,7 @@ rules like:
 	string 	s:N;
 	float  	d:2.3;
 	...
+	
 Installation
 ------------
 
