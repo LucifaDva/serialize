@@ -6,8 +6,10 @@ phpserialize in Go
 Introduce
 ------------
 phpseriallize is a package for serialize and unserialize an object like php
+
 rules like:
-	int  	i:N;
+
+	int  	i:N;	
 	bool  	b:1;
 	string 	s:N;
 	float  	d:2.3;
@@ -20,7 +22,7 @@ Install:
 
 - Using default go get tool:
 
-    go get "github.com/sangasong/serialize
+    $ go get "github.com/sangasong/serialize
     
 Example
 ------------
