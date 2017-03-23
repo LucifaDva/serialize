@@ -13,7 +13,7 @@ rules like:
 	bool  	b:1;
 	string 	s:N;
 	float  	d:2.3;
-	...
+	Object  o:{..
 	
 Installation
 ------------
